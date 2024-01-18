@@ -1,0 +1,13 @@
+h3#heading{
+    text-align: right !important;
+}
+body{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+div{
+    text-indent: 50px;
+}
+.textint{
+    text-indent: inherit;
+}
